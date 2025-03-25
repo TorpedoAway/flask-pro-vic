@@ -2,5 +2,5 @@ name: sample-flask
 services:
 - name: web
   github:
-    repo: digitalocean/sample-flask
+    repo: torpedoaway/flask-pro-vic
     branch: main
